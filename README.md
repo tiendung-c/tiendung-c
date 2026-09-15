@@ -1,7 +1,7 @@
 <div align="center">
   
-  # 👋 Chào bạn, tôi là Tiến Dũng!
-  ### 🚀  Vibe Coder
+  # 👋 Hello, I'm Tiến Dũng!
+  ### 🚀 From Developer to Vibe Coder
   
   <img src="https://komarev.com/ghpvc/?username=tiendung-c&color=dc143c&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -9,15 +9,15 @@
 
 ---
 
-### 🔭 Ậực điểm & Thông tin:
-- 🔭 **Đang làm việc tại nhóm:** BÉ TẬP CODE
-- 👯 **Cần tìm cộng sự để:** Xây dựng các dự án cùng Hoang Van Huy
-- 🌱 **Đang mài giũa:** Python, tự động hóa và phát triển hệ thống
-- ⚡ **Fun fact:** Chuyển hóa từ một coder thuần túy sang hệ "vibe code" đầy nghệ thuật!
+### 🔭 About Me:
+- 🔭 **Currently working in group:** BÉ TẬP CODE
+- 👯 **Looking to collaborate on:** Hoang Van Huy projects
+- 🌱 **Currently learning:** Python, automation, and system workflows
+- ⚡ **Fun fact:** From developer to vibe code!
 
 ---
 
-### 🌐 Kết nối với tôi:
+### 🌐 Socials:
 <p align="left">
   <a href="https://discord.gg/hcj93phcUz" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 💻 Tech Stack & Công cụ:
+### 💻 Tech Stack & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -46,17 +46,17 @@
 
 ---
 
-### 📊 Thống kê GitHub:
+### 📊 GitHub Stats:
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahuykhoi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendung-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   
   <br/><br/>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hahuykhoi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tiendung-c&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=hahuykhoi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiendung-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
