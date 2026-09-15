@@ -10,8 +10,6 @@
 ---
 
 ### 🔭 About Me:
-- 🔭 **Currently working in group:** BÉ TẬP CODE
-- 👯 **Looking to collaborate on:** Hoang Van Huy projects
 - 🌱 **Currently learning:** Python, automation, and system workflows
 - ⚡ **Fun fact:** From developer to vibe code!
 
@@ -43,20 +41,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendung-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tiendung-c&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=tiendung-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-</div>
